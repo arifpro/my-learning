@@ -33,7 +33,24 @@ console.log(addTwo(5));
 ## day 2 (`Wed, 3 May, 2023`) (`Thu, 4 May, 2023`)
 
 ```note
-1. Advanced TypeScript (https://www.typescriptlang.org)
+1. Advanced TypeScript
+```
+
+---
+
+## day 3 (`Sun, 7 May, 2023`) (`Mon, 8 May, 2023`) (`Mon, 8 May, 2023`)
+
+```note
+1. OOP in TypeScript
+```
+
+---
+
+## day 4 (`Tue, 9 May, 2023`)
+
+```note
+1. 8 problems solve using TypeScript
+2. Assignment 1
 ```
 
 ---
